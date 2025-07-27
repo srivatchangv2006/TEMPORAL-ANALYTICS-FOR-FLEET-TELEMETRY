@@ -1,4 +1,3 @@
-<img width="1647" height="860" alt="image" src="https://github.com/user-attachments/assets/ba0e7c77-3db5-40d6-8de9-182111e2bf84" /># TEMPORAL ANALYTICS FOR FLEET TELEMETRY
 
 A real-time analytics project for fleet vehicle telemetry using Kafka for data streaming and Azure Blob Storage for data persistence. The project includes a data producer, a consumer for vehicle data, and a dashboard for analytics.
 
