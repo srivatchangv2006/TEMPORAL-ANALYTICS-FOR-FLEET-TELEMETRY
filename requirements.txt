@@ -1,0 +1,4 @@
+kafka-python
+azure-storage-blob
+pandas
+matplotlib 
