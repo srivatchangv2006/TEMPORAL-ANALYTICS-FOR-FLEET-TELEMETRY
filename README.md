@@ -149,6 +149,6 @@ Showing Prediction vs Actual comparison
 
 Running the Python command-line interface
 
-Explaining the flow from Kafka Producer → Kafka Consumer → Azure Blob Storage → Azure Analytics
+Explaining the flow from Kafka Producer → Kafka Consumer → Azure Blob Storage → Analytics
 
 (Note: These videos are informal and made to explain the concepts clearly in a mix of English and Tamil.)
